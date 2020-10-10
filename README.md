@@ -2,7 +2,7 @@
 
 A Project Structure Template for Godot Games
 
-Based on @jotson Youtube Video:
+Based on [@jotson](https://github.com/jotson) Youtube Video:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=EXgyOrjLV1g" target="_blank">
     <img src="http://img.youtube.com/vi/EXgyOrjLV1g/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
